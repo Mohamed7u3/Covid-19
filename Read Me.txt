@@ -1,0 +1,12 @@
+Hello 
+my name is mohamed sobhi,Iam studing in faculty of navigation science and space technology in Bin seuf university.
+
+install libraries with "pip install +library name "
+
+data will be renew day by day 
+
+link of data 'https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv'
+
+if you have any questions contact with me 
+
+my linkedin profile("https://www.linkedin.com/in/mohamed-sobhi-ba1554185")
